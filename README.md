@@ -9,14 +9,6 @@ API REST desenvolvida com Node.js e Express para gerenciar livros.
 - Atualizar livro
 - Remover livro
 
-## Como executar
-
-1. Instale as dependências:
-npm install
-
-2. Execute a aplicação:
-npm run dev
-
 3. Acesse:
 http://localhost:3000/livros
 
