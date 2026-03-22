@@ -9,9 +9,6 @@ API REST desenvolvida com Node.js e Express para gerenciar livros.
 - Atualizar livro
 - Remover livro
 
-3. Acesse:
-http://localhost:3000/livros
-
 ## Endpoints
 
 GET /livros  
